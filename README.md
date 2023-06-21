@@ -13,7 +13,7 @@ Day-28 of Android Course:- My Music Android Application
 <table border="5px" style="border-collapse: collapse;">
   <tr>
     <td>
-      <video src="https://github.com/CodeWithRitikCoder/AndroidCourseDay28/blob/master/app/src/main/res/drawable/video1.mp4" controls>   </video>
+      <video src="https://github.com/CodeWithRitikCoder/AndroidCourseDay28/blob/master/app/src/main/res/drawable/video1.mp4" width="50"  loop controls></video>
     </td>
     <td>
       <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay28/blob/master/app/src/main/res/drawable/screen_short_2.png" alt="ScreenShort 2 of Application" height="500" width="250" />
