@@ -1,5 +1,5 @@
 # AndroidCourseDay28
-Day-28 of Android Course:- My Music Android Application
+Day-28 of Android Course:- My Music Android Application.
 <hr><hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
